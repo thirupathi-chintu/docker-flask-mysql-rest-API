@@ -53,7 +53,7 @@ FlaskProject/
 ### How to start application (using Docker)
 - Clone the project using command:
     ```
-    git clone https://github.com/Rabia23/FlaskProject.git
+    git clone https://github.com/thirupathi-chintu/docker-flask-mysql-rest-API.git
     ```
 - Go into the project directory:
     ```
